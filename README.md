@@ -23,7 +23,7 @@
 
 ## Installation
 1. First clone the repository
-2. Then open the `.env` file and input your sql passowrd.
+2. Then open the `.env` file and input your sql passowrd where it says `DB_PW:''`.
 3. Then open terminal and enter `npm i`
 4. Then enter `mysql -u root -p` and your MySQL password.
 5. Then run `source db/schema.sql`
