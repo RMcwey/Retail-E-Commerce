@@ -22,7 +22,15 @@
 - **What did you learn?** I became more comfortable with routes and sequelize
 
 ## Installation
-
+1. First clone the repository
+2. Then open the `.env` file and input your sql passowrd.
+3. Then open terminal and enter `npm i`
+4. Then enter `mysql -u root -p` and your MySQL password.
+5. Then run `source db/schema.sql`
+6. Then enter `quit`
+7. In terminal, enter `npm run seed`
+8. Now enter `npm start`
+9. Open Insomnia to test the routes 
 
 ## Technologies Used
 * Node.js
@@ -35,9 +43,9 @@
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 Walkthrough Video Link:
+
+
 
 ## Live URL
 
