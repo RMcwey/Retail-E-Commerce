@@ -9,7 +9,6 @@
 * [Technologies Used](#technologies-used)
 * [Usage](#usage)
 * [Credits](#credits)
-* [Live URL](#live-url)
 * [Questions](#questions)
 * [License](#license)
     
@@ -43,11 +42,15 @@
 
 ## Usage
 
-Walkthrough Video Link:
+Walkthrough Video Link: https://drive.google.com/file/d/1-UooxamWVx-FHwgzD8WPG548jDvGPUBq/view?usp=sharing
 
+![image](https://user-images.githubusercontent.com/95650769/161251388-f902caae-4f53-44cb-b539-ce317ba0e648.png)
 
+![image](https://user-images.githubusercontent.com/95650769/161251501-356c4fad-688a-40d7-8396-54bce56418b3.png)
 
-## Live URL
+![image](https://user-images.githubusercontent.com/95650769/161251578-a1adbbf6-d2df-4527-9252-021db9bfb6ba.png)
+
+![image](https://user-images.githubusercontent.com/95650769/161251813-8b5d7dd3-ce66-408c-8565-e995a80eed27.png)
 
 
 ## Credits
